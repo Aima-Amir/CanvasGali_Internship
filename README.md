@@ -1,4 +1,5 @@
 # Customer-Segmentation-Tool
-the file contains the project file of customer segmentation tool durng the canvagali internship
-
-This Project is created under CanvasGali Internship Program.
+The repository contains the Weekly projects code files at CanvasGali.
+Week-1: Customer Segmentation 
+Week-2: Applying KMean values
+Week-3: Spam Classifier
